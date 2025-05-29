@@ -1,0 +1,10 @@
+python==3.10.16
+
+Package                      Version
+---------------------------- -----------
+
+Flask                        3.1.0
+mysql-connector-python       9.1.0
+numpy                        2.0.2
+pandas                       2.2.3
+scikit-learn                 1.6.1
